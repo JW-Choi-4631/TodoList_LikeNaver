@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  max-width: 1200px;
+  margin: 0 auto;
+  color: rgb(3, 199, 90);
+  border-radius: 10px;
+}
+
+footer {
+  position: absolute;
+  bottom: -30px;
+  width: 100%;
+  max-width: 1200px;
+  background-color: rgb(247, 249, 250);
+}

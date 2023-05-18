@@ -1,0 +1,35 @@
+{
+  "todos": [
+    {
+      "title": "axios 구현",
+      "content": "todo 관련 axios 구현 ",
+      "date": "2023-05-17",
+      "isDone": true,
+      "id": 7
+    },
+    {
+      "title": "해야할 일 정리",
+      "content": "1. redux/ RTK(redux toolkit) / react Query 정리하기\n2. JWT 관련 정리하기",
+      "date": "2023-05-21",
+      "isDone": false,
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "email": "choijung4631@naver.com",
+      "password": "$2a$10$Ubl/A2dJ7/Vbdjfg29iO/erYswTJSRjl7RF1QAvsOvA7tQ1XmRKgy",
+      "id": 1
+    },
+    {
+      "email": "choijung@naver.com",
+      "password": "$2a$10$cVcaYrxCkGZEvR626GgJIOItTJ1uKUPAePcBKC4UzMKifLvePhyqm",
+      "id": 2
+    },
+    {
+      "email": "choi@naver.com",
+      "password": "$2a$10$zG1KOU9Hb9Bpto0yh1TW9.2svwKg4EymHHq66niYKvzzdTNytQ7Pa",
+      "id": 3
+    }
+  ]
+}
